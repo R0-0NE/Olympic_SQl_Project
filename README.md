@@ -1,4 +1,4 @@
-# Olympic_SQl_Project
+# Olympic SQl Project
 
 ## Olympic History Exploratory Data Analysis
 
